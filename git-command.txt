@@ -2,7 +2,7 @@ Git Commands to push the code to remote repository
 --------------------------------------------------
 
 1. git init - To initialize the repository 
-2. git remote add origin https://github.com/MatserMERN/html5-css3-15032022.git - Connect your local repository to remote repository
+2. git remote add origin https://github.com/jayeshindiamart/html-css-indiamart.git - Connect your local repository to remote repository
 3. git status - To check the status of the files to see if they are created /modified
 4. git diff - to see the changes made to the files
 5. git add filename - To add file to local git repository 
